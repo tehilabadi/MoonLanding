@@ -6,7 +6,7 @@ It follows that as you approach the moon and the altitude decreases, the speed o
 
 ## starting position
 
-vs = 24.8 vertical speed
+vs = 24.8 vertical speed 
 hs = 932 hirizenal speed
 dist = Distance from the moon
 ang = 58.3 The angle of the spacecraft
@@ -20,4 +20,14 @@ The landing results of our simulation are six liters better than the results of 
 
 ![image](https://user-images.githubusercontent.com/74323809/168447758-4cefcc0e-3ccb-4f8b-892b-c9a57e5f0a1f.png)
 
+## attached files
 
+Pdf file
+Describing the reasons for the crash of the spacecraft in Genesis according to official information published by the engineers.
+
+## How to install and run the code
+Perform a clone to the code by clicking on the green cursor and copying the link.
+Run the git clone command along with the project link and run the main file located in the "Bereshit_101" class
+
+Ariel Yifee
+Tehila Abadi
