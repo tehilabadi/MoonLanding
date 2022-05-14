@@ -6,12 +6,12 @@ It follows that as you approach the moon and the altitude decreases, the speed o
 
 ## starting position
 
-vs = 24.8 vertical speed 
-hs = 932 hirizenal speed
-dist = Distance from the moon
-ang = 58.3 The angle of the spacecraft
-fuel = 121 the amount of Gaz at the begining of the simulation
-NN the main engine
+vs = 24.8 vertical speed <br />
+hs = 932 hirizenal speed <br />
+dist = Distance from the moon <br />
+ang = 58.3 The angle of the spacecraft <br />
+fuel = 121 the amount of Gaz at the begining of the simulation <br />
+NN the main engine <br />
 
 The purpose of the simulation run is to make a landing on the moon (when a landing is set at a distance of 0 from the moon) with a maximum amount of fuel and with a zero horizontal angle and a maximum vertical angle.
 Fuel combustion calculations are performed by physical principles brought to us with the original simulation with the base code.
@@ -27,7 +27,7 @@ Describing the reasons for the crash of the spacecraft in Genesis according to o
 
 ## How to install and run the code
 Perform a clone to the code by clicking on the green cursor and copying the link.
-Run the git clone command along with the project link and run the main file located in the "Bereshit_101" class
+Run the git clone command along with the project link and run the main file located in the "Bereshit_101" class <br />
 
-Ariel Yifee
-Tehila Abadi
+Ariel Yifee <br />
+Tehila Abadi <br />
